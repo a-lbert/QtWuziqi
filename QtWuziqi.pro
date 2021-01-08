@@ -13,6 +13,7 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
+    git-test.cpp \
         mainwindow.cpp \
     GameModel.cpp
 
